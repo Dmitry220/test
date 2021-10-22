@@ -1,0 +1,15 @@
+.profile{
+    max-width: 1400px;
+    margin: 30px auto;
+}
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+.image{
+    text-align: center;
+}
+img.avatar {
+    width: 10%;
+    border-radius: 50%;
+}
