@@ -14,6 +14,7 @@ export const Profile = () => {
                 <img src={avatar} alt="Avatar" className={styleProfile.avatar}/>
             </div>
             <h1>{userData[0].login}</h1>
+            <h3>Test</h3>
         </div>
     )
 }
